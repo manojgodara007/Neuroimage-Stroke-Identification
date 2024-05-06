@@ -26,7 +26,9 @@ The model achieved an accuracy of X% on the test dataset. Detailed evaluation me
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## References
-- [Paper Title]([link-to-paper](https://ieeexplore.ieee.org/document/10445193)): Add link to the original paper for reference.
+- [Innovations in Stroke Identification: A Machine
+ Learning-Based Diagnostic Model
+ Using Neuroimages](https://ieeexplore.ieee.org/document/10445193): Add link to the original paper for reference.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
