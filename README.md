@@ -5,6 +5,7 @@ This repository contains the code implementation for the paper titled "Innovatio
 ## Table of Contents
 - [Introduction](#introduction)
 - [Dependencies](#dependencies)
+- [Dataset](#dataset)
 - [Results](#results)
 - [Contributing](#contributing)
 - [References](#references)
@@ -17,6 +18,9 @@ In this paper, we propose a machine learning-based diagnostic model for stroke i
 - TensorFlow
 - NumPy
 - scikit-learn
+
+## Dataset
+- [Brain CT Images with Intracranial Hemorrhage Masks](https://www.kaggle.com/datasets/vbookshelf/computed-tomography-ct-images/data)
 
 ## Result
 The model achieved an accuracy of 61.27%. We are working to achieve a 96.28% accuracy, as demonstrated in the paper.
