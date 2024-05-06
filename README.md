@@ -28,7 +28,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 ## References
 - [Innovations in Stroke Identification: A Machine
  Learning-Based Diagnostic Model
- Using Neuroimages](https://ieeexplore.ieee.org/document/10445193): Add link to the original paper for reference.
-
+ Using Neuroimages](https://ieeexplore.ieee.org/document/10445193)
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
